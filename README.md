@@ -1,3 +1,17 @@
- counter_app_project
- 
-A simple app to increase, decrease, and reset a counter value. Built for learning basic UI and state management concepts. 
+📱 Counter App
+🔹 Description
+
+A simple counter app that allows users to increment, decrement, and reset the counter value.
+
+🔹 Features
+
+Increase counter value
+
+Decrease counter value
+
+Reset counter to zero
+
+🔹 Purpose
+
+Built to understand basic app logic and state management.
+
